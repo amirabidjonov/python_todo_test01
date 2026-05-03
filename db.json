@@ -1,0 +1,25 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Yugurish",
+            "description": "ertalab 6:00 da 3 km yugurish",
+            "status": false,
+            "user_id": 1
+        }
+    ],
+    "current_id": 2,
+    "users": [
+        {
+            "id": 1,
+            "username": "alijon",
+            "password": "12345678"
+        },
+        {
+            "id": 2,
+            "username": "amir",
+            "password": "2010"
+        }
+    ],
+    "current_user_id": 3
+}
